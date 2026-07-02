@@ -1,8 +1,8 @@
 {
-  "product": "ClipForge Studio",
+  "product": "UneasiestCut",
   "channel": "alpha",
   "version": "0.1.0",
-  "title": "ClipForge Studio 0.1.0 alpha",
+  "title": "UneasiestCut 0.1.0 alpha",
   "summary": "First public alpha lane for the Windows desktop prototype.",
   "publishedAt": "2026-07-01T00:00:00Z",
   "releaseUrl": "https://github.com/UneasiestDaisy/ClipForge-Studio-Releases/releases/tag/v0.1.0-alpha",

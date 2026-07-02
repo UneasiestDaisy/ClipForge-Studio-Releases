@@ -27,7 +27,7 @@ async function loadRelease() {
 
     if (manifest.asset.downloadUrl) {
       downloadButton.href = manifest.asset.downloadUrl;
-      downloadButton.textContent = `Download ${manifest.asset.name}`;
+      downloadButton.textContent = `Download ${manifest.product || 'Installer'}`;
       downloadButton.classList.remove('disabled');
       downloadButton.removeAttribute('aria-disabled');
     }
